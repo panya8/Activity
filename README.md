@@ -22,7 +22,7 @@ $ python manage.py runserver
 # install dependencies
 $ npm install
 
-# serve with hot reload at localhost:3000
+# run server localhost:3000
 $ npm run dev
 
 # build for production and launch server
